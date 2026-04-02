@@ -1,3 +1,11 @@
+# Data files - too large for GitHub
+data/raw/
+data/processed/
+data/outputs/
+
+# Mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
